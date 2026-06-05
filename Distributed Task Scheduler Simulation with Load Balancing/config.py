@@ -1,0 +1,8 @@
+NUM_WORKERS = 3
+MAX_RETRY = 2
+
+PRIORITY_LEVELS = {
+    "HIGH": 1,
+    "MEDIUM": 2,
+    "LOW": 3
+}
